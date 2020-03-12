@@ -1,0 +1,8 @@
+body {
+  display:table
+}
+
+.attribution {
+  position: absolute;
+  bottom: 25px;
+}
